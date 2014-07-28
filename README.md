@@ -1,7 +1,7 @@
 teamboard-feedback
 ==================
 
-As techniques for getting feedback more efficiently and making the process fluent, the teamboard feedback channel utilizes Uservoice, Zapier and Github. The feedback is sent from the teamboard with the Uservoice widget and then processed/answered by what has been specified in the widget's 'Type' field. Bug reports are directed to Github as issues with the help of Zapier.
+As techniques for getting feedback more efficiently and making the process fluent, the teamboard feedback channel utilizes Uservoice, Zapier and Github. The feedback is sent from teamboard with the Uservoice widget and then processed/answered by what has been specified in the widget's 'Type' field. Bug reports are directed to Github as issues with the help of Zapier.
 
 About using the Uservoice widget
 --------------------------------
